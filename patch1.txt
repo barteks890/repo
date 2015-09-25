@@ -1,4 +1,4 @@
 abc
-DELETED
+def
 ghi
-DELETED
+jkl
